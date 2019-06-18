@@ -1,6 +1,6 @@
 # Blog
 
-This is a very simple React JS app that pulls a list of blog posts from https://jsonplaceholder.typicode.com and displays on the screen.  Uses https://semantic-us.com for styling.
+This is a very simple React JS app that pulls a list of blog posts from https://jsonplaceholder.typicode.com and displays on the screen.  Uses https://semantic-ui.com for styling.
 
 Demo: <a href="https://rleap.github.io/blog_example/">Blog</a>
 
